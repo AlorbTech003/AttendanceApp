@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\apply_for_leaves.xml",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\apply_for_leaves.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_f42.xml",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\fragment_f42.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_f3.xml",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\fragment_f3.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_face.xml",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\activity_face.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\attendance_record.xml",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\attendance_record.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\invite_people.xml",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\invite_people.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_slideshow.xml",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_f4.xml",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\fragment_f4.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\drop_down_item.xml",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\drop_down_item.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main2.xml",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_f1.xml",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\fragment_f1.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_f41.xml",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\fragment_f41.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_f2.xml",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\fragment_f2.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\profile.xml",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\profile.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_gallery.xml",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\schedule_meeting.xml",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\schedule_meeting.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_f5.xml",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\fragment_f5.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_home.xml",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register.xml",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\app_bar_main2.xml",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\app_bar_main2.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\file_organization.xml",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\file_organization.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header.xml",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\splash_screen.xml",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\splash_screen.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_main.xml",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\content_main.xml"
+    }
+]

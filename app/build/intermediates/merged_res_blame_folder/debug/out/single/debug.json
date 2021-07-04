@@ -1,0 +1,450 @@
+[
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_flip_camera_ios_24.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable\\ic_baseline_flip_camera_ios_24.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\raw_start.json.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\raw\\start.json"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_l1.png.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable-v24\\l1.png"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\font_lato_semibold.ttf.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\font\\lato_semibold.ttf"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_in.jpg.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable-v24\\in.jpg"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_arrow_forward_24.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_forward_24.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_baseline_event_24.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable-v24\\ic_baseline_event_24.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\font_open_sans_light.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\font\\open_sans_light.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\font_lato_regular.ttf.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\font\\lato_regular.ttf"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_register_bg.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable\\ic_register_bg.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main2.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\app_bar_main2.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_file_organization.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable\\ic_file_organization.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\menu_navigation.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\menu\\navigation.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\font_sf_ui_display_semibold.ttf.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\font\\sf_ui_display_semibold.ttf"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_location_on_24.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable\\ic_baseline_location_on_24.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_drop_down_item.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\drop_down_item.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_attendance_record.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\attendance_record.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\font_lato_hairlineitalic.ttf.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\font\\lato_hairlineitalic.ttf"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\font_sf_ui_display_medium.ttf.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\font\\sf_ui_display_medium.ttf"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_house_24.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable\\ic_baseline_house_24.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\font_lato_hairline.ttf.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\font\\lato_hairline.ttf"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mid.png.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable-v24\\mid.png"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_location.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable\\location.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\font_lato_thin.ttf.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\font\\lato_thin.ttf"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_baseline_account_circle_24.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable-v24\\ic_baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_applyforleaveicon.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable\\ic_applyforleaveicon.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\font_lato_heavyitalic.ttf.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\font\\lato_heavyitalic.ttf"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\font_lato_blackitalic.ttf.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\font\\lato_blackitalic.ttf"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_task_alt_24.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable\\ic_baseline_task_alt_24.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\font_latobold.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\font\\latobold.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\raw_facerecognition.json.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\raw\\facerecognition.json"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_f5.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\fragment_f5.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_slideshow.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_person_add_alt_1_24.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable\\ic_baseline_person_add_alt_1_24.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\font_sfui_light.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\font\\sfui_light.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_add_circle_outline_24.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable\\ic_baseline_add_circle_outline_24.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main2.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_states.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable\\button_states.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_profile.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\profile.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\font_sfui_display_medium.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\font\\sfui_display_medium.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_more_vert_24.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable\\ic_baseline_more_vert_24.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\font_lato_medium.ttf.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\font\\lato_medium.ttf"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_schedule_meeting.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\schedule_meeting.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_splash_screen.png.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable-v24\\splash_screen.png"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_on.png.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable-v24\\on.png"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_invite_people.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\invite_people.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\font_lato_semibolditalic.ttf.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\font\\lato_semibolditalic.ttf"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_f2.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\fragment_f2.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\menu_option.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\menu\\option.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_f41.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\fragment_f41.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\font_lato_thinitalic.ttf.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\font\\lato_thinitalic.ttf"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_cin.jpg.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable-v24\\cin.jpg"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\font_sf_ui_display_light.ttf.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\font\\sf_ui_display_light.ttf"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\font_lato_black.ttf.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\font\\lato_black.ttf"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_clockout.png.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable\\clockout.png"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\menu_drawer_menu.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\menu\\drawer_menu.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notification.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable\\ic_notification.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_f3.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\fragment_f3.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\font_lato_heavy.ttf.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\font\\lato_heavy.ttf"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\font_sf_ui_display_black.ttf.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\font\\sf_ui_display_black.ttf"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_cout.png.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable-v24\\cout.png"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_f42.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\fragment_f42.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\font_sf_ui_display_heavy.ttf.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\font\\sf_ui_display_heavy.ttf"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\font_sfui_display_thin.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\font\\sfui_display_thin.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_out.jpg.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable-v24\\out.jpg"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\font_lato_bold.ttf.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\font\\lato_bold.ttf"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_camera.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_account_circle_24.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable\\ic_baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_splash_screen.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\splash_screen.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_apply_for_leaves.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\apply_for_leaves.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_notifications_24.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable\\ic_baseline_notifications_24.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_trip_origin_24.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable\\ic_baseline_trip_origin_24.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_f4.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\fragment_f4.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_splashscreen1.png.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable-v24\\splashscreen1.png"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_aadhaar.png.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable-v24\\aadhaar.png"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_dashboard_24.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable\\ic_baseline_dashboard_24.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\font_sfui_bold.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\font\\sfui_bold.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_today_24.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable\\ic_baseline_today_24.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_gallery.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_file_organization.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\file_organization.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\font_sf_ui_display_bold.ttf.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\font\\sf_ui_display_bold.ttf"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_gallery.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_face.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\activity_face.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_slideshow.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\font_sf_ui_display_thin.ttf.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\font\\sf_ui_display_thin.ttf"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_clockin.png.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable\\clockin.png"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\font_sfui_medium.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\font\\sfui_medium.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_f1.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\layout\\fragment_f1.xml"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_sun.png.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable-v24\\sun.png"
+    },
+    {
+        "merged": "C:\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_slider.xml.flat",
+        "source": "C:\\app\\app\\src\\main\\res\\drawable\\ic_slider.xml"
+    }
+]
